@@ -1,0 +1,11 @@
+<!-- Header -->
+	<header id="header">
+		<a href="index.html" class="title">Hyperspace</a>
+		<nav>
+			<ul>
+				<li><a href="@pathto(index)">Home</a></li>
+				<li><a href="@pathto(generic)">Generic</a></li>
+				<li><a href="@pathto(elements)">Elements</a></li>
+			</ul>
+		</nav>
+	</header>
