@@ -11,7 +11,7 @@
 	<body class="is-preload">
 		@input(template/menu.content)
 
-		@inputcontent
+		@content()
 
 		@input(template/footer.content)
 
